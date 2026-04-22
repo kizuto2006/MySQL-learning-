@@ -1,1 +1,1 @@
-use SV;
+select * from SinhVien;
